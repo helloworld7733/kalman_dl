@@ -1,0 +1,28 @@
+2025-05-24 23:14:58,266 - INFO - Model initialized on cpu
+2025-05-24 23:14:58,427 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:14:58,591 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:14:58,754 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:14:58,913 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:14:59,239 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:14:59,400 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:14:59,715 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:14:59,866 - INFO - Epoch [10/100], Train Loss: 0.7486, Val Loss: 0.6825, LR: 0.001000
+2025-05-24 23:15:00,175 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:00,331 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:01,400 - INFO - Epoch [20/100], Train Loss: 0.7530, Val Loss: 0.6905, LR: 0.000500
+2025-05-24 23:15:01,853 - INFO - Early stopping at epoch 23
+2025-05-24 23:15:47,989 - INFO - Model initialized on cpu
+2025-05-24 23:15:48,061 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:48,122 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:48,183 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:48,246 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:48,358 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:48,421 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:48,533 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:48,591 - INFO - Epoch [10/100], Train Loss: 0.7486, Val Loss: 0.6825, LR: 0.001000
+2025-05-24 23:15:48,708 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:48,766 - INFO - Model saved to models/best_model.pth
+2025-05-24 23:15:49,149 - INFO - Epoch [20/100], Train Loss: 0.7530, Val Loss: 0.6905, LR: 0.000500
+2025-05-24 23:15:49,322 - INFO - Early stopping at epoch 23
+2025-05-24 23:15:49,882 - INFO - Model saved to models/final_model.pth
+2025-05-24 23:15:49,882 - INFO - Training completed successfully!
